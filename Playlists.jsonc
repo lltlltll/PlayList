@@ -1,16 +1,5 @@
 [
     {
-        "name": "MachitaChimaSongList",
-        "name_display": "町田ちま MachitaChima",
-        "tag": ["町田ちま", "Machita", "Chima", "MachitaChima", "public"],
-        "route": "MachitaChima/MachitaChimaSongList.jsonc",
-        "maintainer": {
-            "name": "da21510",
-            "url": "https://github.com/da21510"
-        },
-        "singer": "町田ちま"
-    },
-    {
         "name": "RaifaSongList",
         "name_display": "ライファ Raifa",
         "tag": ["ライファ", "Raifa", "public"],
