@@ -9,5 +9,12 @@
             "url": "https://github.com/lltlltll"
         },
         "singer": "ライファ"
+    },
+    {
+        "name": "YumenoTartSongList",
+        "name_display": "たるとちゃん",
+        "tag": ["public"],
+        "route": "YumenoTart/YumenoTartSongList.jsonc",
+        "singer": "たるとちゃん"
     }
 ]
