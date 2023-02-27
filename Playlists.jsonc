@@ -4,17 +4,20 @@
         "name_display": "ライファ Raifa",
         "tag": ["ライファ", "Raifa", "public"],
         "route": "Raifa/RaifaSongList.jsonc",
-        "maintainer": {
-            "name": "lltlltll",
-            "url": "https://github.com/lltlltll"
-        },
         "singer": "ライファ"
     },
     {
         "name": "YumenoTartSongList",
-        "name_display": "たるとちゃん",
+        "name_display": "夢乃たると",
         "tag": ["public"],
         "route": "YumenoTart/YumenoTartSongList.jsonc",
-        "singer": "たるとちゃん"
+        "singer": "夢乃たると"
+    },
+    {
+        "name": "YumenoTartMemberSongList",
+        "name_display": "夢乃たると Members Only",
+        "tag": ["member"],
+        "route": "YumenoTart/YumenoTartMemberSongList.jsonc",
+        "singer": "夢乃たると"
     }
 ]
