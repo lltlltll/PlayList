@@ -23,5 +23,12 @@
         "tag": ["member"],
         "route": "YumenoTart/YumenoTartMemberSongList.jsonc",
         "singer": "夢乃たると"
+    },
+    {
+        "name": "ShishioChrisSongList",
+        "name_display": "獅子王クリス",
+        "tag": ["public"],
+        "route": "ShishioChris/ShishioChrisSongList.jsonc",
+        "singer": "獅子王クリス"
     }
 ]
